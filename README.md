@@ -1,6 +1,3 @@
-d
-https://www.youtube.com/watch?v=cYjtTg0kUH4
-
 
 
 **5. 발표영상 링크**:  
