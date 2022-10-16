@@ -23,10 +23,10 @@
 https://sweet-wheel-f17.notion.site/Project-E_Commerce-d54c4fca6804470297044ac1f66ed4b6
 
 - **발표영상 링크**    
-![mq1](https://user-images.githubusercontent.com/101457515/196030344-38ac1d9f-f79a-4090-98ba-18de8172d7c7.jpeg) <br>
+<img src="https://user-images.githubusercontent.com/101457515/196030344-38ac1d9f-f79a-4090-98ba-18de8172d7c7.jpeg" width="700" height="400"/> <br>
 (https://youtu.be/cYjtTg0kUH4)
 
-<img src="https://user-images.githubusercontent.com/101457515/196030344-38ac1d9f-f79a-4090-98ba-18de8172d7c7.jpeg" width="200" height="400"/>
+
 
 <br><br>
 
