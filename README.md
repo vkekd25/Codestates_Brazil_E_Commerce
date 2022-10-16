@@ -23,9 +23,10 @@
 https://sweet-wheel-f17.notion.site/Project-E_Commerce-d54c4fca6804470297044ac1f66ed4b6
 
 - **발표영상 링크**    
-![Video Label](http://img.youtube.com/vi/cYjtTg0kUH4/0.jpg) <br>
+![mq1](https://user-images.githubusercontent.com/101457515/196030344-38ac1d9f-f79a-4090-98ba-18de8172d7c7.jpeg) <br>
 (https://youtu.be/cYjtTg0kUH4)
-  
+
+
 
 <br><br>
 
