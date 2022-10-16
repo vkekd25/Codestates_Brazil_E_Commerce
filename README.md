@@ -19,7 +19,7 @@
 - **데이터**  
   - 케글 Brazilian E-Commerce Public Dataset by Olist(https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) 
 
-- **포트폴리오**
+- **포트폴리오**  
 https://sweet-wheel-f17.notion.site/Project-E_Commerce-d54c4fca6804470297044ac1f66ed4b6
 
 - **발표영상 링크**    
