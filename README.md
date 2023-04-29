@@ -15,11 +15,11 @@
 - **프로젝트 결과**  
   - f1 score: 0.877 → 0.907
 
-<img width="1088" alt="스크린샷 2023-04-29 오후 7 08 25" src="https://user-images.githubusercontent.com/101457515/235297281-3374f42c-e8d3-4306-9eef-89fbf2719c9a.png">
+<img width="500" alt="스크린샷 2023-04-29 오후 7 08 25" src="https://user-images.githubusercontent.com/101457515/235297281-3374f42c-e8d3-4306-9eef-89fbf2719c9a.png">
 
-<img width="1074" alt="스크린샷 2023-04-29 오후 7 08 33" src="https://user-images.githubusercontent.com/101457515/235297259-7f934bea-d201-4a18-ba70-b3cadef30b72.png">
+<img width="500" alt="스크린샷 2023-04-29 오후 7 08 33" src="https://user-images.githubusercontent.com/101457515/235297259-7f934bea-d201-4a18-ba70-b3cadef30b72.png">
 
-<img width="941" alt="스크린샷 2023-04-29 오후 7 08 46" src="https://user-images.githubusercontent.com/101457515/235297266-f7af5eb1-b574-4a30-8473-153bc71d4b81.png">
+<img width="500" alt="스크린샷 2023-04-29 오후 7 08 46" src="https://user-images.githubusercontent.com/101457515/235297266-f7af5eb1-b574-4a30-8473-153bc71d4b81.png">
 
 
 
