@@ -15,11 +15,19 @@
 - **프로젝트 결과**  
   - f1 score: 0.877 → 0.907
 
-<img width="500" alt="스크린샷 2023-04-29 오후 7 08 25" src="https://user-images.githubusercontent.com/101457515/235297281-3374f42c-e8d3-4306-9eef-89fbf2719c9a.png">
+**순열중요도(Permutation Importance)**  
 
-<img width="500" alt="스크린샷 2023-04-29 오후 7 08 33" src="https://user-images.githubusercontent.com/101457515/235297259-7f934bea-d201-4a18-ba70-b3cadef30b72.png">
+<img width="1019" alt="스크린샷 2023-04-29 오후 7 15 56" src="https://user-images.githubusercontent.com/101457515/235297570-b01af4a3-9fdf-4dad-b5d8-e4ce7a461e47.png">
 
-<img width="500" alt="스크린샷 2023-04-29 오후 7 08 46" src="https://user-images.githubusercontent.com/101457515/235297266-f7af5eb1-b574-4a30-8473-153bc71d4b81.png">
+**부분 의존도 Plot(PDP Plot)**  
+
+<img width="699" alt="스크린샷 2023-04-29 오후 7 16 03" src="https://user-images.githubusercontent.com/101457515/235297604-1e559a92-df45-4a0e-ad30-3009732a907d.png">
+해석 : 제품 예상 도착날짜와 실제 도착 날짜의 차이는 15일까지 날짜의 차이가 클수록 리뷰점수에 긍정적인 영향을 줍니다.
+
+
+**Shap Plot**  
+
+<img width="1022" alt="스크린샷 2023-04-29 오후 7 16 09" src="https://user-images.githubusercontent.com/101457515/235297619-f931c2a1-b7da-4437-945a-aad9612a527c.png">
 
 
 
