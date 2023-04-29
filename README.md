@@ -31,7 +31,6 @@
 <img width="500" alt="스크린샷 2023-04-29 오후 7 16 09" src="https://user-images.githubusercontent.com/101457515/235297619-f931c2a1-b7da-4437-945a-aad9612a527c.png">
 
 
-
 - **데이터**  
   - 케글 Brazilian E-Commerce Public Dataset by Olist(https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) 
 
