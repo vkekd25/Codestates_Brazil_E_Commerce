@@ -1,7 +1,7 @@
 ## ML 프로젝트
 <br>
 
-- AI 부트캠프 과정중에 두번째 ML 개인 프로젝트입니다. <br>
+- ML 개인 프로젝트입니다. <br>
 
 ## ML_Brazilian_E-Commerce_Olist
 - **프로젝트 주제**
